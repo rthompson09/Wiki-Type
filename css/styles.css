@@ -1,0 +1,17 @@
+body{
+	background:beige;
+}
+div div{
+	background: teal;
+	margin: 5px;
+}
+
+h1 {
+font-family: 'Noto Serif', serif;
+text-align: center;
+font-size: 45px;	
+	}
+	
+	p {
+	line-height: 1.5;	
+		}
